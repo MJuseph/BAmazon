@@ -23,7 +23,7 @@
 
 * **Screenshot Giphy**
 
-![Results](/giphy/cus.gif)
+![Results](./giphy/cus.gif)
 
 - - -
 
@@ -42,7 +42,7 @@
 
 * **Screenshot Giphy**
 
-![Results](/giphy/man.gif)
+![Results](./giphy/man.gif)
 
 - - -
 
